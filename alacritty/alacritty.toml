@@ -1,0 +1,20 @@
+[colors]
+draw_bold_text_with_bright_colors = true
+
+[colors.primary]
+background = "#000000"
+foreground = "#a9b1d6"
+
+[font]
+size = 7
+
+[font.normal]
+family = "monospace"
+
+[window.class]
+general = "Aacritty"
+instance = "Alacritty"
+
+[window.padding]
+x = 5
+y = 5
